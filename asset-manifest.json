@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My_React_Toyako/static/css/main.073c9b0a.css",
+    "main.js": "/My_React_Toyako/static/js/main.e0cc0b8b.js",
+    "static/js/787.a440b0b0.chunk.js": "/My_React_Toyako/static/js/787.a440b0b0.chunk.js",
+    "static/media/logo.svg": "/My_React_Toyako/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/My_React_Toyako/index.html",
+    "main.073c9b0a.css.map": "/My_React_Toyako/static/css/main.073c9b0a.css.map",
+    "main.e0cc0b8b.js.map": "/My_React_Toyako/static/js/main.e0cc0b8b.js.map",
+    "787.a440b0b0.chunk.js.map": "/My_React_Toyako/static/js/787.a440b0b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e0cc0b8b.js"
+  ]
+}
